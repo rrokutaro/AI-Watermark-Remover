@@ -3,7 +3,9 @@
 **Easy tool to remove invisible AI watermarks from photos.**
 
 ![](./assets/banner-1.png)
+
 ![](./assets/banner-2.png)
+
 ![](./assets/banner-3.png)
 
 ### What it does
@@ -19,16 +21,14 @@ This app cleans hidden AI watermarks (the ones that make pictures look slightly 
 **Tip**: Set **Text strength to 0** for perfectly clear text.
 
 ### Google Colab (T4) 
-```python
-# noai-watermark v2 — Per-Region Strength Controls + Two-Pass Blending
-# Regions: background (full strength), clothing, hands, feet/shoes, text
-# Each region gets its own strength slider — gentle pass blended back in.
-#
+```bash
 # SETUP:
 !pip install noai-watermark ultralytics gradio Pillow numpy fashn-human-parser
 !pip install torch torchvision open-clip-torch einops timm
 !pip install codeformer-inference easyocr gradio_client
+```
 
+```python
 # ──────────────────────────────────────────────────────────────────────────────
 #  IMPORTS
 # ──────────────────────────────────────────────────────────────────────────────

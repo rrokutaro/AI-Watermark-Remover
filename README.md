@@ -1,4 +1,3 @@
-```markdown
 # AI Image Watermark Remover
 
 **Easy tool to remove invisible AI watermarks from photos.**

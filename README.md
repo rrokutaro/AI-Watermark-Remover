@@ -3,10 +3,9 @@
 **Easy tool to remove invisible AI watermarks from photos.**
 
 ![](./assets/main.jpg)
-
+![](./assets/banner-1.png)
 ![](./assets/banner-2.png)
-
-![](./assets/banner-3.png)
+![](./assets/banner-3.jpg)
 
 ### What it does
 This app cleans hidden AI watermarks (the ones that make pictures look slightly blurry or artificial) while protecting important parts like faces, hair, clothes, hands, text, and shoes.

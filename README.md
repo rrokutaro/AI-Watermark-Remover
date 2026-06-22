@@ -8,7 +8,7 @@
 ![](./assets/banner-3.jpg)
 
 ### What it does
-Removes hidden AI watermarks while protecting important parts like faces, hair, clothes, hands, text, and shoes etc.
+Removes hidden AI watermarks while protecting important parts like faces, hair, clothes, hands, text, and shoes etc. This allows applying different levels of removal strength, less for high detail areas, compared to low detail areas such as backgrounds etc. 
 
 ### Launch
 ```bash

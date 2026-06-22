@@ -8,7 +8,7 @@
 ![](./assets/banner-3.jpg)
 
 ### What it does
-This app cleans hidden AI watermarks (the ones that make pictures look slightly blurry or artificial) while protecting important parts like faces, hair, clothes, hands, text, and shoes.
+Removes hidden AI watermarks while protecting important parts like faces, hair, clothes, hands, text, and shoes etc.
 
 ### How to Use (Super Simple)
 1. Run the program — it opens in your web browser.

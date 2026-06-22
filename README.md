@@ -10,15 +10,6 @@
 ### What it does
 Removes hidden AI watermarks while protecting important parts like faces, hair, clothes, hands, text, and shoes etc.
 
-### How to Use (Super Simple)
-1. Run the program — it opens in your web browser.
-2. Upload one or more photos.
-3. Use the sliders to adjust cleaning strength (Balanced preset is a good start).
-4. Click **Process batch**.
-5. Download your cleaned images.
-
-**Tip**: Set **Text strength to 0** for perfectly clear text.
-
 ### Launch
 ```bash
 # SETUP

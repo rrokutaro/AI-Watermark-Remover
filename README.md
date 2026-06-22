@@ -2,7 +2,7 @@
 
 **Easy tool to remove invisible AI watermarks from photos.**
 
-![](./assets/main.png)
+![](./assets/main.jpg)
 
 ![](./assets/banner-2.png)
 

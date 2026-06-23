@@ -1,6 +1,6 @@
 # AI Image Watermark Remover
 
-**Easy tool to remove invisible AI watermarks from photos.**
+**Easy tool to remove invisible AI watermarks from photos (SynthID)**
 
 ![](./assets/main.jpg)
 ![](./assets/banner-1.png)
